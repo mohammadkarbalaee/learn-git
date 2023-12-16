@@ -37,4 +37,4 @@ Can't wait to unravel the mysteries of your incredible contribution! Need a wiza
 ### Introduce yourself 🖐🏻
 
 [Mohammad Karbalaee](https://github.com/mohammadkarbalaee/)
-[Ali Hosseini](https://github.com/ali/]
+[Ali Hosseini](https://github.com/ali/)
