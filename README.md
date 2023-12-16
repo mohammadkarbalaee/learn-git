@@ -17,7 +17,7 @@ Hello there! Get ready for your first Git assignment, and guess what? It's going
 ```markdown
 ### Introduce yourself 🖐🏻
 
-(Your Name)[Your GitHub Profile Link]
+[Your Name](Your GitHub Profile Link)
 
 ```
 
@@ -37,4 +37,4 @@ Can't wait to learn more about you through your amazing contribution! If you nee
 
 ### Introduce yourself 🖐🏻
 
-(Mohammad Karbalaee)[https://github.com/mohammadkarbalaee/]
+[Mohammad Karbalaee](https://github.com/mohammadkarbalaee/)
