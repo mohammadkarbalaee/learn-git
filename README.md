@@ -38,4 +38,7 @@ Can't wait to unravel the mysteries of your incredible contribution! Need a wiza
 
 [Mohammad Karbalaee](https://github.com/mohammadkarbalaee/)
 
+[Haleh Qadyani](https://github.com/HalehQadyani/)
+
 [AmirAli Araghi](https://github.com/osumy/)
+
